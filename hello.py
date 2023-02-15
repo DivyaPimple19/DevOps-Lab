@@ -1,4 +1,4 @@
-px=200
+x=200
 i=0
 while(x):
     print(i)
