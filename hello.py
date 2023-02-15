@@ -1,1 +1,8 @@
-print("Divya here")
+px=200
+i=0
+while(x):
+    print(i)
+    i=i+2
+    x=x-2
+
+
